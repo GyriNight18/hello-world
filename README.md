@@ -1,2 +1,3 @@
 # hello-world
-My repozitori
+Hi!
+I am Gureev Vladimir.
